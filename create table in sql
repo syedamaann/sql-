@@ -1,0 +1,6 @@
+create table results
+(
+	track varchar(200),
+    artist varchar(120),
+    album varchar(160)
+	);
